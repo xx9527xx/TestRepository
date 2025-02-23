@@ -2,3 +2,8 @@ public void IamGood(string name)
 {
 	Console.Wrtieline("IamGood");
 }
+
+public void IamGood2()
+{
+	Console.Wrtieline("IamGood");
+}
