@@ -1,0 +1,4 @@
+public void IamGood(string name)
+{
+	Console.Wrtieline("IamGood");
+}
